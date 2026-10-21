@@ -22,7 +22,7 @@ Desenvolvendo soluções, integrações e automações para problemas reais de n
 
 Sou desenvolvedor de software com foco em **Backend Java e Spring Boot**, atuando na construção e evolução de aplicações corporativas, integrações entre sistemas, automações e soluções orientadas a dados.
 
-Minha trajetória em desenvolvimento também inclui em sistemas corporativos, atuando no desenvolvimento, manutenção e evolução de soluções de negócio. Forte vivência com bancos de dados relacionais (SQL Server, 
+Minha trajetória em desenvolvimento também inclui vivencia em sistemas corporativos, atuando no desenvolvimento, manutenção e evolução de soluções de negócio. Forte vivência com bancos de dados relacionais (SQL Server, 
 MySQL, Oracle e PostgreSQL). Boa capacidade de lidar com regras de negócio complexas, APIs REST. Aplicando conceitos de Clean Architecture, SOLID, testes unitários e boas práticas de engenharia de software. 
 
 🎓 Pós-graduado em **Arquitetura de Software pela FIAP**, com estudos envolvendo:
